@@ -1,0 +1,114 @@
+# Copyright (C) 2023 Selfchat
+# This file is distributed under the same license as the Selfchat package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Selfchat\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-19 18:16+0200\n"
+"PO-Revision-Date: 2023-02-19 16:16+0000\n"
+"Last-Translator: \n"
+"Language-Team: Українська\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:"
+"1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: assets/src\n"
+"X-Poedit-SearchPathExcluded-0: assets/node_modules\n"
+
+#: assets/src/selfchat.js:25
+#, javascript-format
+msgctxt "JS"
+msgid "An error has occured: %s"
+msgstr "Виникла помилка: %s"
+
+#: assets/src/selfchat.js:104
+msgctxt "JS"
+msgid "Loading"
+msgstr "Завантаження"
+
+#: assets/src/selfchat.js:180
+msgctxt "JS"
+msgid "Error"
+msgstr "Помилка"
+
+#: selfchat.php:344
+msgid "Sticker"
+msgstr ""
+
+#: selfchat.php:349
+msgid "GIF"
+msgstr ""
+
+#: selfchat.php:385
+#, php-format
+msgid "Continue to chat with %s on website:"
+msgstr "Продовжуйте спілкуватися з %s на вебсайті:"
+
+#: selfchat.php:421
+msgid "Attached file(s)"
+msgstr "Прикріплений файл(и)"
+
+#: selfchat.php:471
+msgctxt "User settings"
+msgid "Enable notifications via Telegram"
+msgstr "Увімкнути сповіщення через Telegram"
+
+#: selfchat.php:474
+msgctxt "User settings"
+msgid ""
+"When enabled, you will receive notifications about new messages via Telegram "
+"when you are offline."
+msgstr ""
+"Якщо опція увімкнена, Ви отримуватимете сповіщення про нові повідомлення "
+"через Telegram, якщо Ви не в мережі."
+
+#: selfchat.php:480
+msgctxt "User settings"
+msgid "Enable Dark theme"
+msgstr "Увімкнути темну тему"
+
+#: selfchat.php:489
+msgctxt "User settings"
+msgid "Notifications"
+msgstr ""
+
+#: selfchat.php:504
+msgctxt "User settings"
+msgid "Saved successfully"
+msgstr ""
+
+#: selfchat.php:558
+#, php-format
+msgid ""
+"<b>%s:</b> The <b>%s</b> plugin cannot execute because the following "
+"required plugins are not active: <b>%s</b>. Please activate these plugins."
+msgstr ""
+"<b>%s:</b> Неможливо запустити плагін <b>%s</b>, оскільки не активовані "
+"необхідні плагіни: <b>%s</b>. Будь ласка, активуйте ці плагіни."
+
+#: selfchat.php:565 selfchat.php:587
+msgid "Error"
+msgstr "Помилка"
+
+#: selfchat.php:566 selfchat.php:588
+msgid "Selfchat"
+msgstr "Selfchat"
+
+#: selfchat.php:580
+#, php-format
+msgid ""
+"<b>%s:</b> The <b>%s</b> plugin require at least <b>PHP 7.4</b>, currently "
+"running <b>PHP %s</b>. Please upgrade your website PHP version."
+msgstr ""
+"<b>%s:</b> Для роботи плагіна <b>%s</b> необхідний <b>PHP 7.4</b>, наразі "
+"використовується <b>PHP %s</b>. Будь ласка, оновіть версію PHP Вашого сайту."
